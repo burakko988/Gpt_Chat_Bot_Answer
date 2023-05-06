@@ -1,0 +1,5 @@
+SIMPLE ALGORITHMS IN THIS REPOSITORY
+
+IMPORTANT TRICKS  IN THE = main.go - database/queries.go - chat/chat.go
+
+OTHERS JUST A SKELETON 
